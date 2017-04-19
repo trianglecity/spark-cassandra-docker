@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /home/spark/examples/spark_cassandra/target/scala-2.11/spark_cassandra_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	spark_cassandra$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/spark/examples/spark_cassandra/target/scala-2.11/classes/spark_cassandra$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	spark_cassandra$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/spark/examples/spark_cassandra/target/scala-2.11/classes/spark_cassandra$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	spark_cassandra$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/spark/examples/spark_cassandra/target/scala-2.11/classes/spark_cassandra$.class[0m
+[0m[[0mdebug[0m] [0m	spark_cassandra.class[0m
+[0m[[0mdebug[0m] [0m	  /home/spark/examples/spark_cassandra/target/scala-2.11/classes/spark_cassandra.class[0m
+[0m[[0mdebug[0m] [0m	spark_cassandra$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/spark/examples/spark_cassandra/target/scala-2.11/classes/spark_cassandra$$typecreator1$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
